@@ -1,6 +1,6 @@
 - Reponame: **`gentoo-zh`**
 
-(The last generation time: 2022-02-24 11:47:14 CST)
+(The last generation time: 2022-02-24 19:43:37 CST)
 
 ### Packages
 
@@ -470,7 +470,7 @@
    sys-kernel/xanmod-hybrid                   | 5.15.24                                   | RD         | https://xanmod.org                                                                      | Full XanMod sources with TT CPU Scheduler and CJKTTY options and including the Gentoo patchset.
    sys-kernel/xanmod-kernel                   | 5.10.101                                  | RD         | https://www.kernel.org/                                                                 | XanMod lts kernel built with Gentoo patches and cjktty
                                               | 5.15.24                                   |            |                                                                                         |
-                                              | 5.16.10                                   |            |                                                                                         |
+                                              | 5.16.11                                   |            |                                                                                         |
    sys-kernel/xanmod-rt                       | 5.15.12                                   | RD         | https://github.com/HougeLangley/customkernel                                            | Xanmod-RT, cjktty, uksm patchset for main kernel tree
                                               | 5.15.14                                   |            |                                                                                         |
 ----------------------------------------------|-------------------------------------------|------------|-----------------------------------------------------------------------------------------|--------------------
